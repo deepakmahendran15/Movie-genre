@@ -1,0 +1,18 @@
+{"message":"Something failed during startup.","stack":"Error: Something failed during startup.\n    at Object.<anonymous> (/Users/apple/vidly-server/index.js:132:7)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-11-19T02:50:18.226Z"}
+{"message":"Something failed miserably!","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (/Users/apple/vidly-server/index.js:140:26)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-11-19T03:28:35.820Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-19T04:48:17.789Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-19T04:55:38.567Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-19T04:58:32.087Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-11-19T04:58:32.181Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-12-01T07:55:51.857Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-12-01T07:55:51.961Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-12-01T08:25:48.434Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-12-01T08:25:48.522Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-12-01T14:35:01.106Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-12-01T14:35:01.270Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-12-01T14:37:22.779Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-12-01T14:37:22.865Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-12-01T15:01:05.088Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-12-01T15:01:05.124Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-12-03T02:44:42.494Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-12-03T02:44:42.627Z"}
